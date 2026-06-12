@@ -7,11 +7,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Tryphena-R/LeetCode/tree/master/0049-group-anagrams) |
+| [0621-task-scheduler](https://github.com/Tryphena-R/LeetCode/tree/master/0621-task-scheduler) |
 ## Hash Table
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Tryphena-R/LeetCode/tree/master/0049-group-anagrams) |
 | [0208-implement-trie-prefix-tree](https://github.com/Tryphena-R/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [0621-task-scheduler](https://github.com/Tryphena-R/LeetCode/tree/master/0621-task-scheduler) |
 ## String
 |  |
 | ------- |
@@ -22,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Tryphena-R/LeetCode/tree/master/0049-group-anagrams) |
 | [0295-find-median-from-data-stream](https://github.com/Tryphena-R/LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [0621-task-scheduler](https://github.com/Tryphena-R/LeetCode/tree/master/0621-task-scheduler) |
 ## Design
 |  |
 | ------- |
@@ -39,8 +42,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Tryphena-R/LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [0621-task-scheduler](https://github.com/Tryphena-R/LeetCode/tree/master/0621-task-scheduler) |
 ## Data Stream
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Tryphena-R/LeetCode/tree/master/0295-find-median-from-data-stream) |
+## Greedy
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/Tryphena-R/LeetCode/tree/master/0621-task-scheduler) |
+## Counting
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/Tryphena-R/LeetCode/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
