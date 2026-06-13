@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Tryphena-R/LeetCode/tree/master/0011-container-with-most-water) |
 | [0049-group-anagrams](https://github.com/Tryphena-R/LeetCode/tree/master/0049-group-anagrams) |
 | [0621-task-scheduler](https://github.com/Tryphena-R/LeetCode/tree/master/0621-task-scheduler) |
 ## Hash Table
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Tryphena-R/LeetCode/tree/master/0011-container-with-most-water) |
 | [0295-find-median-from-data-stream](https://github.com/Tryphena-R/LeetCode/tree/master/0295-find-median-from-data-stream) |
 ## Heap (Priority Queue)
 |  |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Tryphena-R/LeetCode/tree/master/0011-container-with-most-water) |
 | [0621-task-scheduler](https://github.com/Tryphena-R/LeetCode/tree/master/0621-task-scheduler) |
 ## Counting
 |  |
