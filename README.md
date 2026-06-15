@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Tryphena-R/LeetCode/tree/master/0011-container-with-most-water) |
 | [0049-group-anagrams](https://github.com/Tryphena-R/LeetCode/tree/master/0049-group-anagrams) |
+| [0239-sliding-window-maximum](https://github.com/Tryphena-R/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0621-task-scheduler](https://github.com/Tryphena-R/LeetCode/tree/master/0621-task-scheduler) |
 ## Hash Table
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Tryphena-R/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0239-sliding-window-maximum](https://github.com/Tryphena-R/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/Tryphena-R/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0621-task-scheduler](https://github.com/Tryphena-R/LeetCode/tree/master/0621-task-scheduler) |
 ## Data Stream
@@ -71,4 +73,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Tryphena-R/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Tryphena-R/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Tryphena-R/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Tryphena-R/LeetCode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
