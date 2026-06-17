@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Tryphena-R/LeetCode/tree/master/0011-container-with-most-water) |
+| [0061-rotate-list](https://github.com/Tryphena-R/LeetCode/tree/master/0061-rotate-list) |
 | [0295-find-median-from-data-stream](https://github.com/Tryphena-R/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Tryphena-R/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Heap (Priority Queue)
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Tryphena-R/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0061-rotate-list](https://github.com/Tryphena-R/LeetCode/tree/master/0061-rotate-list) |
 | [0203-remove-linked-list-elements](https://github.com/Tryphena-R/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Tryphena-R/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Divide and Conquer
