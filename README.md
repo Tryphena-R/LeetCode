@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Tryphena-R/LeetCode/tree/master/0049-group-anagrams) |
 | [0200-number-of-islands](https://github.com/Tryphena-R/LeetCode/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/Tryphena-R/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0419-battleships-in-a-board](https://github.com/Tryphena-R/LeetCode/tree/master/0419-battleships-in-a-board) |
 | [0621-task-scheduler](https://github.com/Tryphena-R/LeetCode/tree/master/0621-task-scheduler) |
 ## Hash Table
 |  |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Tryphena-R/LeetCode/tree/master/0200-number-of-islands) |
+| [0419-battleships-in-a-board](https://github.com/Tryphena-R/LeetCode/tree/master/0419-battleships-in-a-board) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -111,4 +113,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Tryphena-R/LeetCode/tree/master/0200-number-of-islands) |
+| [0419-battleships-in-a-board](https://github.com/Tryphena-R/LeetCode/tree/master/0419-battleships-in-a-board) |
 <!---LeetCode Topics End-->
