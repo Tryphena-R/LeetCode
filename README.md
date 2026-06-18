@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Tryphena-R/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0419-battleships-in-a-board](https://github.com/Tryphena-R/LeetCode/tree/master/0419-battleships-in-a-board) |
 | [0621-task-scheduler](https://github.com/Tryphena-R/LeetCode/tree/master/0621-task-scheduler) |
+| [0695-max-area-of-island](https://github.com/Tryphena-R/LeetCode/tree/master/0695-max-area-of-island) |
 ## Hash Table
 |  |
 | ------- |
@@ -101,17 +102,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Tryphena-R/LeetCode/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/Tryphena-R/LeetCode/tree/master/0419-battleships-in-a-board) |
+| [0695-max-area-of-island](https://github.com/Tryphena-R/LeetCode/tree/master/0695-max-area-of-island) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Tryphena-R/LeetCode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Tryphena-R/LeetCode/tree/master/0695-max-area-of-island) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Tryphena-R/LeetCode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Tryphena-R/LeetCode/tree/master/0695-max-area-of-island) |
 ## Matrix
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Tryphena-R/LeetCode/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/Tryphena-R/LeetCode/tree/master/0419-battleships-in-a-board) |
+| [0695-max-area-of-island](https://github.com/Tryphena-R/LeetCode/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
