@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/Tryphena-R/LeetCode/tree/master/0419-battleships-in-a-board) |
 | [0621-task-scheduler](https://github.com/Tryphena-R/LeetCode/tree/master/0621-task-scheduler) |
 | [0695-max-area-of-island](https://github.com/Tryphena-R/LeetCode/tree/master/0695-max-area-of-island) |
+| [1732-find-the-highest-altitude](https://github.com/Tryphena-R/LeetCode/tree/master/1732-find-the-highest-altitude) |
 ## Hash Table
 |  |
 | ------- |
@@ -119,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Tryphena-R/LeetCode/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/Tryphena-R/LeetCode/tree/master/0419-battleships-in-a-board) |
 | [0695-max-area-of-island](https://github.com/Tryphena-R/LeetCode/tree/master/0695-max-area-of-island) |
+## Prefix Sum
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/Tryphena-R/LeetCode/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
