@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Tryphena-R/LeetCode/tree/master/0621-task-scheduler) |
 | [0695-max-area-of-island](https://github.com/Tryphena-R/LeetCode/tree/master/0695-max-area-of-island) |
 | [1732-find-the-highest-altitude](https://github.com/Tryphena-R/LeetCode/tree/master/1732-find-the-highest-altitude) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Tryphena-R/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -133,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/Tryphena-R/LeetCode/tree/master/1732-find-the-highest-altitude) |
+## Math
+|  |
+| ------- |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Tryphena-R/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 <!---LeetCode Topics End-->
