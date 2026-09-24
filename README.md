@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Tryphena-R/LeetCode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Tryphena-R/LeetCode/tree/master/0049-group-anagrams) |
+| [0205-isomorphic-strings](https://github.com/Tryphena-R/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Tryphena-R/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0290-word-pattern](https://github.com/Tryphena-R/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Tryphena-R/LeetCode/tree/master/0383-ransom-note) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Tryphena-R/LeetCode/tree/master/0049-group-anagrams) |
+| [0205-isomorphic-strings](https://github.com/Tryphena-R/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Tryphena-R/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0290-word-pattern](https://github.com/Tryphena-R/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Tryphena-R/LeetCode/tree/master/0383-ransom-note) |
